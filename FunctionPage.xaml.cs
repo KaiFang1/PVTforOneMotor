@@ -28,7 +28,7 @@ namespace PVTforOneMotor
     {
         public static class common // F-控制电机代号（0-3）
         {
-            public static int NUM = 2;          
+            public static int NUM = 2;     //电机代号     
         }
 
         public FunctionPage()
